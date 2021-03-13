@@ -1,0 +1,8 @@
+ul{
+  flex:0;
+}
+
+#container{
+  display:flex;
+  flex: 0;
+}
